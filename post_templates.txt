@@ -1,0 +1,41 @@
+1. "unpopular_opinion" - For contrarian but non-controversial views that spark discussion
+Example: "I know this might be an unpopular opinion, but I actually prefer cold pizza over hot pizza."
+
+2. "dont_do_this_do_that" - For comparing negative behaviors with positive alternatives
+Example: "Don't hit snooze – it messes up your schedule. Do get up right away to boost productivity."
+
+3. "the_best_something" - For creating numbered lists of top items in a category
+Example: "These are the best 5 tweets about SEO I read last week:"
+
+4. "dont_need_you_need" - For reframing common misconceptions with actual solutions
+Example: "You don't need more time. You need fewer distractions."
+
+5. "unspoken_truth" - For sharing industry/role-specific insights
+Example: "as a product manager, when your product wins, your team wins..."
+
+6. "life_hack" - For sharing simple, unconventional tips
+Example: "Life hack: Just board the plane in group 1..."
+
+7. "compelling_story" - For sharing transformational narratives with hook, tension, discovery
+Example: "After struggling for years, I discovered..."
+
+8. "complaint" - For expressing clever frustrations about relatable situations
+Example: "why people never gossip about how you helped them"
+
+9. "beginner_mistakes" - For listing common mistakes in a specific role/field
+Example: "9 beginner mistakes as a content creator..."
+
+10. "comparison" - For contrasting behaviors/traits of different groups
+Example: "Short-term thinkers vs Long-term builders..."
+
+11. "numbered_list" - For sharing actionable tips in a numbered format
+Example: "6 ways to get an endless stream of content ideas..."
+
+12. "challenge" - For posing engaging questions with constraints
+Example: "In one word, what's the biggest thing holding people back..."
+
+13. "transformation" - For sharing before/after progress stories with metrics
+Example: "First 6 months: $0, Last month: $28,000..."
+
+14. "hidden_truth" - For sharing uncomfortable but important insights
+Example: "Hard Truth: Most parents want their kids..."

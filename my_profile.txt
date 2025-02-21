@@ -1,0 +1,198 @@
+## Personal Background
+
+I'm Hasan, a tech expert turned digital entrepreneur with over 15 years in technology and 9+ years building online businesses. My journey began as an IT/Network Administrator before transforming into a successful digital entrepreneur.
+
+## Core Mission
+
+I help people master technical and business skills needed for today's digital world, specializing in combining software development, digital marketing, and business automation.
+
+## Teaching Style & Philosophy
+
+- I explain complex concepts using simple English for global accessibility
+- My content follows: Hook → Steps → Advanced Section → Conclusion → Call to Action
+- I emphasize daily dedication (30-60 minutes) and taking consistent action
+- I focus on real solutions, avoiding "lazy" quick fixes
+- I always share from personal experience, not theoretical knowledge
+- I believe in honest, straightforward communication without fluff
+
+## Technical Expertise
+
+- Advanced WordPress development (SaaS/microSaaS architecture)
+- Full-stack API development and monetization
+- Python programming with AI integration
+- Multiple programming languages (.NET, Java, C++, C#, VB, ASP)
+- System administration (Windows Server, IIS, RDS, SMTP)
+- Cloud infrastructure and virtualization
+- Network administration (Cisco CCNP certified)
+- Security expertise (CEH certified)
+- Database design and SQL Server administration
+
+## Business & Marketing Skills
+
+- Digital business strategy and scaling
+- Online product development and monetization
+- Content marketing strategy
+- SEO optimization and automation
+- Marketing automation systems
+- Community building and management
+- Multi-platform content distribution
+- Course creation and monetization
+
+## Main Platforms & Projects
+
+### 1. LearnWithHasan.com
+
+Premium Courses:
+
+- How To Build SaaS on WordPress
+- Build and Sell APIs (Including FastAPI implementation)
+- Build a Digital Business in 6 Weeks
+- GenAI/Prompt Engineering with Python
+- Marketing Automation (No-code and code solutions)
+
+### 2. PromoterKit.com (AI-Powered Marketing Suite)
+
+## SEO Tools
+
+1. Keyword Research
+    - Purpose: Discover high-performing keywords for content optimization
+    - Key Feature: AI-powered insights for strategic SEO decisions
+2. Bulk Keyword SEO Metrics
+    - Purpose: Analyze multiple keywords simultaneously
+    - Features: Search volume, SEO difficulty, paid competitors, CPC analysis
+3. AI SEO Audit
+    - Purpose: Comprehensive website SEO analysis
+    - Features: Detailed analysis and actionable recommendations
+4. Site Keywords Analysis
+    - Purpose: Track website ranking for target keywords
+    - Features: Rank tracking and performance analysis
+5. Competitor Finder
+    - Purpose: Identify and analyze top SEO competitors
+    - Features: Competitive analysis and market positioning
+6. Questions Keywords
+    - Purpose: Find question-based keywords
+    - Features: Content relevance optimization
+7. Keyword Suggestions
+    - Purpose: Generate relevant keyword ideas
+    - Features: Content strategy expansion
+8. Domain Authority Checker
+    - Purpose: Track website domain authority
+    - Features: SEO performance evaluation
+
+## YouTube Tools
+
+1. YouTube Title Generator
+    - Purpose: Generate engaging video titles
+    - Features: CTR optimization
+2. YouTube Popular Videos Database
+    - Purpose: Discover high-performing content
+    - Features: Trend analysis and content inspiration
+3. YouTube Channel Search
+    - Purpose: Analyze competitors and discover influencers
+    - Features: Niche research and competitor analysis
+
+## Email Tools
+
+1. Bulk Email Verifier
+    - Purpose: Validate email lists
+    - Features: 98% accuracy, export options
+2. Subject Line Generator
+    - Purpose: Create engaging email subjects
+    - Features: AI-powered engagement optimization
+3. Subject Line Grader
+    - Purpose: Analyze subject line effectiveness
+    - Features: Performance scoring
+4. Subject Lines Database
+    - Purpose: Access proven subject lines
+    - Features: 100+ winning templates
+
+## AI Tools
+
+1. AI Image Generator
+    - Purpose: Create unique images
+    - Features: Advanced AI image creation
+2. Logo Generator
+    - Purpose: Design professional logos
+    - Features: Brand identity creation
+3. Hook Generator
+    - Purpose: Create engaging content hooks
+    - Features: CTR optimization
+4. Blog Title Generator
+    - Purpose: Generate SEO-optimized titles
+    - Features: Engagement optimization
+5. SEO Meta Description Generator
+    - Purpose: Create optimized meta descriptions
+    - Features: SEO enhancement
+6. Title Generator
+    - Purpose: Create catchy content titles
+    - Features: AI-powered title optimization
+7. LinkedIn Carousel Generator
+    - Purpose: Create engaging LinkedIn content
+    - Features: Professional presentation creation
+8. Domain Name Generator
+    - Purpose: Generate business domain names
+    - Features: Brand-aligned domain suggestions
+
+### 3. Additional Projects
+
+- TubeDigest: AI-powered YouTube content transformation
+- DefineWise: Visual AI dictionary for children
+- PyDive: Interactive Python learning platform
+
+### 4. Content Platforms
+
+- YouTube Channel (950K+ subscribers)
+- Active presence on Twitter, LinkedIn, Reddit, and Medium
+- Technical courses on Udemy (Server administration, IIS, RDS, SMTP)
+
+## Educational Background
+
+- Masters in Computer Science
+- Multiple certifications including MCSA, MCSE, VMware VCP/VCAP
+- Cisco CCNP, CEH, and various programming certifications
+
+## Content Focus Areas
+
+1. Marketing Automation
+    - No-code automation systems
+    - Python-based automation with AI
+    - Marketing tool development
+2. Digital Business Development
+    - MicroSaaS and SaaS creation
+    - Course development
+    - Digital product creation
+3. Technical Education
+    - Programming tutorials
+    - System administration
+    - API development
+    - WordPress development
+4. Growth Strategies
+    - Marketing optimization
+    - Business automation
+    - Technical infrastructure
+
+## Development Environment
+
+- VS Code with AI integration (Claude API)
+- Local WordPress development using LocalWP
+- Git for version control
+- Various AI tools for productivity
+
+## Community Engagement
+
+- Regular content creation across all platforms
+- Active community support and mentoring
+- Focus on practical, implementable advice
+- Emphasis on building sustainable online businesses
+
+# Content Generation Guidelines for AI
+
+- Use simple, clear English
+- Focus on practical, step-by-step instructions
+- Include real examples from my projects
+- Maintain technical accuracy while ensuring accessibility
+- Reference relevant tools and resources when appropriate
+- Include calls to action to relevant courses or communities
+- Emphasize automation and efficiency in solutions
+- Share actual experiences and tested strategies
+- Maintain a balance between technical depth and practical application
